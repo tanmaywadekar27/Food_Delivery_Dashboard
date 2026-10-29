@@ -1,0 +1,7 @@
+{
+  "name": "Navy Teal v2",
+  "dataColors": ["#17365D", "#20A39E", "#5B7FA6", "#7FD1CC", "#9FB3C8", "#E0A458", "#2E5A88", "#17365D", "#B7C9DB", "#C9EAE7"],
+  "foreground": "#263238",
+  "foregroundNeutralSecondary": "#64748B",
+  "tableAccent": "#17365D"
+}
